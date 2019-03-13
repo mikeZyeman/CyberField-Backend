@@ -1,0 +1,11 @@
+{
+  "name": "CyberField-Backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "@types/node": "^11.11.1",
+    "@types/socket.io": "^2.1.2",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
